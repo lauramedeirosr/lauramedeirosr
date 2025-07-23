@@ -11,9 +11,6 @@
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=java,spring,py,git,github,postman,mysql,aws,idea" />
   </a>
-  <a href="https://www.linkedin.com/lauramedeirosr/" target="_blank" title="LinkedIn">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" width="48" />
-  </a>
 </div>
 
 #
