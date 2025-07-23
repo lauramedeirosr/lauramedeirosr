@@ -17,4 +17,5 @@
 </div>
 
 <hr>
+![snake gif](https://github.com/lauramedeirosr/lauramedeirosr/blob/output/github-contribution-grid-snake.gif)
 
