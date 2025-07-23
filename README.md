@@ -2,11 +2,11 @@
   <p align="center"><i>Desenvolvedora BackEnd</i></p>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=lauramedeirosr&theme=neon&hide_border=true&include_all_commits=true&count_private=true) 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramedeirosr&theme=neon&hide_border=true&include_all_commits=true&count_private=true)
 
-# 🧰 Languages and Tools:
+# Languages and Tools:
 <div>
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=java,spring,py,git,github,postman,mysql,aws,idea" />
@@ -14,8 +14,4 @@
 </div>
 
 #
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauramedeirosr/lauramedeirosr/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lauramedeirosr/lauramedeirosr/output/github-contribution-grid-snake.svg">
-</picture>
 
