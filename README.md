@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauramedeirosr&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 🧰 Languages and Tools:
-<div align="center">
+<div >
  <a href="https://skillicons.dev">
  <img src="https://skillicons.dev/icons?i=java,spring,py,git,github,postman,mysql,aws,idea" />
  </a>
@@ -17,5 +17,4 @@
 </div>
 
 <hr>
-![snake gif](https://github.com/lauramedeirosr/lauramedeirosr/blob/output/github-contribution-grid-snake.gif)
-
+<img src="https://github.com/lauramedeirosr/lauramedeirosr/blob/output/github-contribution-grid-snake.gif" alt="Snake Gif de Contribuições do GitHub">
