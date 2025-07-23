@@ -11,7 +11,7 @@
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=java,spring,py,git,github,postman,mysql,aws,idea" />
   </a>
-  <a href="https://www.linkedin.com/in/lauramedeirosr/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/lauramedeirosr/" target="_blank" title="LinkedIn">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="48" width="48" />
   </a>
 </div>
@@ -19,7 +19,6 @@
 #
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauramedeirosr/lauramedeirosr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauramedeirosr/lauramedeirosr/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lauramedeirosr/lauramedeirosr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lauramedeirosr/lauramedeirosr/output/github-contribution-grid-snake.svg">
 </picture>
 
